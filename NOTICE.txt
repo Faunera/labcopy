@@ -1,0 +1,18 @@
+This product includes software from GLFW
+https://github.com/glfw/glfw
+Copyright 2002-2006 Marcus Geelnard
+Copyright 2006-2019 Camilla Löwy
+Licensed under zlib License
+
+This product includes software from OpenGL Mathematics (GLM)
+https://github.com/g-truc/glm
+Copyright 2005 - G-Truc Creation
+Licensed under MIT License
+
+This product includes software from TinyXML2
+https://github.com/leethomason/tinyxml2
+Licensed under the zlib License
+
+This product includes software from GLAD
+https://github.com/Dav1dde/glad
+Licensed under MIT License

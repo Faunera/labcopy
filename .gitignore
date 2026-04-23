@@ -1,0 +1,8 @@
+**/*.a
+**/*.o
+**/build
+gcm.cache
+dev.txt
+errorlog.txt
+testfile.txt
+**/*.jpg
